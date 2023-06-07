@@ -1,8 +1,6 @@
-let length;
-let width ;
-prompt("Enter the Length of a rectangle?");
- prompt("Enter the Width of a rectangle?");
-let area= lenght + width;
+let length=6;
+let width = 3;
+let area= length + width;
 console.log(area);
 /*
 */
