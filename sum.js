@@ -1,7 +1,10 @@
-let n=9;
-sum=(n+1)/2;
-for(n=0; n>=9;n++) {
+function sumToN(n) {
+    let sum=0
+for(let i=1; i<= n; i++) {
     if(n% 3 ===0|| n%5 ===0) {
-    console.log(sum)
+        sum= sum + i;
+    }
+   console.log(sum);
 }
+sumToN(9);
 }

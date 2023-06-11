@@ -1,0 +1,30 @@
+* {
+    background-color: aquamarine;
+}
+h2 {
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+.mm {
+    color: red;
+    font-weight:bold;
+    font-size: large;
+}
+.tt {
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+.ttt {
+    color:black;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.dd {
+    color: white;
+
+}
